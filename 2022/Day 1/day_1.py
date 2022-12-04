@@ -1,4 +1,4 @@
-# Advent of Code 2022 Day 1 Part 1
+# Advent of Code 2022 Day 1
 
 cal_per_elf = []
 
